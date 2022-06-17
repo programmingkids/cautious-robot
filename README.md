@@ -1,11 +1,11 @@
 # cautious-robot
 
-## firework01.html
+## fireworks01.html
 ランダムな花火を打ち上げ  
 円周方向に爆発するだけ  
 おいていく処理はない  
 
-[実行結果](./fireworkd01.html) 
+[実行結果](./fireworks01.html) 
 
 ## その他のねた
 パーティクル
